@@ -1,0 +1,6 @@
+numpy>=1.22
+scipy>=1.9
+pandas>=1.5
+matplotlib>=3.5
+scikit-fem>=8.0
+h5py>=3.0
